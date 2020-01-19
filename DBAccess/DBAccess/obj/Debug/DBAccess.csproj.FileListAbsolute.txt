@@ -1,0 +1,14 @@
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\DBAccess.dll
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\DBAccess.pdb
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\Google.Protobuf.dll
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\MySql.Data.dll
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\Renci.SshNet.dll
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\Google.Protobuf.xml
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\MySql.Data.xml
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\bin\Debug\Renci.SshNet.xml
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\obj\Debug\DBAccess.csprojAssemblyReference.cache
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\obj\Debug\DBAccess.csproj.CopyComplete
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\obj\Debug\DBAccess.dll
+C:\Users\josue\Desktop\Github\DataBaseAccess\DBAccess\DBAccess\obj\Debug\DBAccess.pdb
